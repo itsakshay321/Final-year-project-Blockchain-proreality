@@ -1,5 +1,5 @@
 module.exports = {
-  email: "abhinaathi@gmail.com",
+  email: "akshay@gmail.com",
   password: "PASSWORD",
   NEXMO_API_KEY: "API_KEY",
   NEXMO_API_SECRET: "SECRET_KEY",
